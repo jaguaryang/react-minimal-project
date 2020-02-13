@@ -10,9 +10,11 @@ class HelloWorld extends Component {
   test() {
     console.log(1243)
   }
+
   render() {
-    return (<>Hello World, React!!!</>);
+    return (<>Hello World!!!</>);
   }
+
 }
 
 export default HelloWorld;
